@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=false" />
 - I’m @Demonchuwu aka Cristian Misla
 - I’m interested in video games.
 - I’m currently learning Computer Simulation and Gaming development.
